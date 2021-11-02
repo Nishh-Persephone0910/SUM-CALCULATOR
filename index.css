@@ -23,4 +23,7 @@ navbar {
     * {
         text-align: center;
     }
+    p {
+        font-style: italic;
+    }
 }
